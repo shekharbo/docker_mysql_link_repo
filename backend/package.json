@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "mysql2": "^2.3.0"  // Example MySQL driver, adjust version as needed
+    "mysql2": "^2.3.0"
     // other dependencies
   }
 }
